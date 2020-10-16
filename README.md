@@ -9,7 +9,7 @@
 (動作要件)  
 FileMaker ver19.1.2~(Mac or Win)
   
-(使い方) 
+(使い方)   
 Manipulatorフォルダ：　アドオン本体。ホームフォルダ下の以下の場所にこのフォルダごと配置してください。
 * Library/Application Support/FileMaker/Extensions /AddonModules folder (on macOS).
 * AppData\Local\FileMaker\Extensions\AddonModules (on Windows).
