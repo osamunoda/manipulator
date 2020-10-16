@@ -25,14 +25,14 @@ manipulator_howto.mp4: how-to movie
 This add-on allows you to manipulate FileMaker data with Javascript.
 This add-on takes the data and the formulas used to process it and returns the results to FileMaker.
   
-(note)
+(note)  
 This add-on was created to give you a feel for Javascript processing of FileMaker data, and was not designed to be embedded in a working file.
 If you specify a formula that creates an infinite loop or if the amount of data to be processed is extremely large, FileMaker will not receive control and may be forced to terminate the file. Please treat the file as an experimental file and do not open it with the important file at the same time.
   
  (Requirement)  
 FileMaker version 19.1.2~(Mac or Win).
   
-(How to use)
+(How to use)  
 Manipulator folder: The main body of the add-on. Please put it in the following location under the Home folder.  
 * Library/Application Support/FileMaker/Extensions /AddonModules folder (on macOS).
 * AppData\Local\FileMaker\Extensions\AddonModules (on Windows).
