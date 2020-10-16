@@ -14,7 +14,7 @@ Manipulatorフォルダ：　アドオン本体。ホームフォルダ下の以
 * Library/Application Support/FileMaker/Extensions /AddonModules folder (on macOS).
 * AppData\Local\FileMaker\Extensions\AddonModules (on Windows).
 
-JS_Drill: デモファイル。manipulatorインストール済み。まずはこちらのファイルでmanipulator
+JS-Drill: デモファイル。manipulatorインストール済み。まずはこちらのファイルでmanipulator
 の動作をご確認ください。
 
 manipulator_howto.mp4: how-to movie
@@ -39,6 +39,6 @@ Manipulator folder: The main body of the add-on. Please put it in the following 
 * Library/Application Support/FileMaker/Extensions /AddonModules folder (on macOS).
 * AppData\Local\FileMaker\Extensions\AddonModules (on Windows).
   
-JS_Drill: Demo file. the manipulator is already installed. First of all, check it before you install this in your file.
+JS-Drill: Demo file. the manipulator is already installed. First of all, check it before you install this in your file.
   
 manipulator_howto.mp4: how-to movie
