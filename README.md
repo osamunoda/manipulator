@@ -18,6 +18,10 @@ JS_Drill: デモファイル。manipulatorインストール済み。まずは�
 manipulator_howto.mp4: how-to movie
 
 
+---------------------------------------------------------------------------------------------------------
+
+
+
 This add-on allows you to manipulate FileMaker data with Javascript.
 This add-on takes the data and the formulas used to process it and returns the results to FileMaker.
   
