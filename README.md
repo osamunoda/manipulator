@@ -18,6 +18,15 @@ JS-Drill: デモファイル。manipulatorインストール済み。まずは�
 の動作をご確認ください。
 
 manipulator_howto.mp4: how-to movie
+  
+(Windowsにおける注意)  
+WindowにおいてWebViewerのエンジンは現状IE11をベースにしたものです。その結果、以下のような制限が発生します。  
+1. アロー関数、MapなどES6によって導入された新技術が使用できない。
+2. d3の最新バージョンであるv6が使えない。  
+JS-Drillで使用している計算式においても上記に該当する場合はSyntax Errorが返されます。　　
+
+(D3について)
+Macにおいてはv6、Winにおいてはv5がCDN経由でロードされます。
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -42,3 +51,13 @@ Manipulator folder: The main body of the add-on. Please put it in the following 
 JS-Drill: Demo file. the manipulator is already installed. First of all, check it before you install this in your file.
   
 manipulator_howto.mp4: how-to movie
+
+　　
+(Note on Windows)  
+The WebViewer engine in Windows is currently based on IE11. As a result, the following limitations occur  
+1. new technologies introduced by ES6, such as arrow functions and Map, cannot be used.  
+2. the latest version of d3 (ver6) cannot be used.  
+If any of the formulas used in JS-Drill correspond to the above, a syntax error will be returned.　　
+
+(About D3)
+On Mac, v6 is loaded via CDN and on Win, v5 is loaded via CDN.
