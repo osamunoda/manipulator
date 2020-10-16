@@ -1,0 +1,1050 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.DEMO</StringID>
+	<SourceText>DEMO</SourceText>
+	<TargetText>DEMO</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.Manipulator</StringID>
+	<SourceText>Manipulator</SourceText>
+	<TargetText>Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::PrimaryKey</StringID>
+	<SourceText>PrimaryKey</SourceText>
+	<TargetText>PrimaryKey</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::age</StringID>
+	<SourceText>age</SourceText>
+	<TargetText>age</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::calc</StringID>
+	<SourceText>calc</SourceText>
+	<TargetText>calc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::data</StringID>
+	<SourceText>data</SourceText>
+	<TargetText>data</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::name</StringID>
+	<SourceText>name</SourceText>
+	<TargetText>name</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::result</StringID>
+	<SourceText>result</SourceText>
+	<TargetText>result</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::state</StringID>
+	<SourceText>state</SourceText>
+	<TargetText>state</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DEMO::text.Unique identifier of each record in this table</StringID>
+	<SourceText>Unique identifier of each record in this table</SourceText>
+	<TargetText>Unique identifier of each record in this table</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.Manipulator::ConfigStore</StringID>
+	<SourceText>ConfigStore</SourceText>
+	<TargetText>ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.Manipulator::HTML</StringID>
+	<SourceText>HTML</SourceText>
+	<TargetText>HTML</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.Manipulator::calc</StringID>
+	<SourceText>calc</SourceText>
+	<TargetText>calc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.Manipulator::data</StringID>
+	<SourceText>data</SourceText>
+	<TargetText>data</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.Manipulator::result</StringID>
+	<SourceText>result</SourceText>
+	<TargetText>result</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text. CR to LF - For easy debug in inspector</StringID>
+	<SourceText> CR to LF - For easy debug in inspector </SourceText>
+	<TargetText> CR to LF - For easy debug in inspector </TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text. FROM</StringID>
+	<SourceText> FROM </SourceText>
+	<TargetText> FROM </TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.&apos;</StringID>
+	<SourceText>&apos;</SourceText>
+	<TargetText>&apos;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.,</StringID>
+	<SourceText>,</SourceText>
+	<TargetText>,</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text..</StringID>
+	<SourceText>.</SourceText>
+	<TargetText>.</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.::</StringID>
+	<SourceText>::</SourceText>
+	<TargetText>::</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CalcField is not specified</StringID>
+	<SourceText>CalcField is not specified</SourceText>
+	<TargetText>CalcField is not specified</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Configulator_Manipulator</StringID>
+	<SourceText>Configulator_Manipulator</SourceText>
+	<TargetText>Configulator_Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DataField is not specified</StringID>
+	<SourceText>DataField is not specified</SourceText>
+	<TargetText>DataField is not specified</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ERROR</StringID>
+	<SourceText>ERROR</SourceText>
+	<TargetText>ERROR</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Error</StringID>
+	<SourceText>Error</SourceText>
+	<TargetText>Error</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Manipulator</StringID>
+	<SourceText>Manipulator</SourceText>
+	<TargetText>Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT</StringID>
+	<SourceText>SELECT </SourceText>
+	<TargetText>SELECT </TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT * FROM FileMaker_Fields WHERE TableName = &apos;</StringID>
+	<SourceText>SELECT * FROM FileMaker_Fields WHERE TableName = &apos;</SourceText>
+	<TargetText>SELECT * FROM FileMaker_Fields WHERE TableName = &apos;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT ConfigStore FROM Manipulator</StringID>
+	<SourceText>SELECT ConfigStore FROM Manipulator</SourceText>
+	<TargetText>SELECT ConfigStore FROM Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT ConfigStore FROM Manipulator FETCH FIRST 1 ROWS ONLY</StringID>
+	<SourceText>SELECT ConfigStore FROM Manipulator FETCH FIRST 1 ROWS ONLY</SourceText>
+	<TargetText>SELECT ConfigStore FROM Manipulator FETCH FIRST 1 ROWS ONLY</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT HTML FROM Manipulator</StringID>
+	<SourceText>SELECT HTML FROM Manipulator</SourceText>
+	<TargetText>SELECT HTML FROM Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.SELECT TableName FROM FileMaker_Tables</StringID>
+	<SourceText>SELECT TableName FROM FileMaker_Tables</SourceText>
+	<TargetText>SELECT TableName FROM FileMaker_Tables</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings</StringID>
+	<SourceText>Settings</SourceText>
+	<TargetText>Settings</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.background</StringID>
+	<SourceText>Settings.background</SourceText>
+	<TargetText>Settings.background</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.color</StringID>
+	<SourceText>Settings.color</SourceText>
+	<TargetText>Settings.color</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.edit</StringID>
+	<SourceText>Settings.edit</SourceText>
+	<TargetText>Settings.edit</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.fields</StringID>
+	<SourceText>Settings.fields</SourceText>
+	<TargetText>Settings.fields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.layout</StringID>
+	<SourceText>Settings.layout</SourceText>
+	<TargetText>Settings.layout</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.map</StringID>
+	<SourceText>Settings.map</SourceText>
+	<TargetText>Settings.map</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.sqlAllFields</StringID>
+	<SourceText>Settings.sqlAllFields</SourceText>
+	<TargetText>Settings.sqlAllFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.sqlFields</StringID>
+	<SourceText>Settings.sqlFields</SourceText>
+	<TargetText>Settings.sqlFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.sqlTable</StringID>
+	<SourceText>Settings.sqlTable</SourceText>
+	<TargetText>Settings.sqlTable</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.table</StringID>
+	<SourceText>Settings.table</SourceText>
+	<TargetText>Settings.table</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.Settings.tableList</StringID>
+	<SourceText>Settings.tableList</SourceText>
+	<TargetText>Settings.tableList</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.__PROPS__</StringID>
+	<SourceText>__PROPS__</SourceText>
+	<TargetText>__PROPS__</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.__STORE__</StringID>
+	<SourceText>__STORE__</SourceText>
+	<TargetText>__STORE__</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.addon_manipulator_error</StringID>
+	<SourceText>addon_manipulator_error</SourceText>
+	<TargetText>addon_manipulator_error</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.allFields</StringID>
+	<SourceText>allFields</SourceText>
+	<TargetText>allFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.background</StringID>
+	<SourceText>background</SourceText>
+	<TargetText>background</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.calc</StringID>
+	<SourceText>calc</SourceText>
+	<TargetText>calc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.color</StringID>
+	<SourceText>color</SourceText>
+	<TargetText>color</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.config</StringID>
+	<SourceText>config</SourceText>
+	<TargetText>config</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.d3.v5.min.js</StringID>
+	<SourceText>d3.v5.min.js</SourceText>
+	<TargetText>d3.v5.min.js</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.d3.v6.min.js</StringID>
+	<SourceText>d3.v6.min.js</SourceText>
+	<TargetText>d3.v6.min.js</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.data</StringID>
+	<SourceText>data</SourceText>
+	<TargetText>data</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.edit</StringID>
+	<SourceText>edit</SourceText>
+	<TargetText>edit</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.fields</StringID>
+	<SourceText>fields</SourceText>
+	<TargetText>fields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.importData</StringID>
+	<SourceText>importData</SourceText>
+	<TargetText>importData</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.init</StringID>
+	<SourceText>init</SourceText>
+	<TargetText>init</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.jsCalc</StringID>
+	<SourceText>jsCalc</SourceText>
+	<TargetText>jsCalc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.map</StringID>
+	<SourceText>map</SourceText>
+	<TargetText>map</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.map.CalcField</StringID>
+	<SourceText>map.CalcField</SourceText>
+	<TargetText>map.CalcField</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.map.DataField</StringID>
+	<SourceText>map.DataField</SourceText>
+	<TargetText>map.DataField</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.map.ResultField</StringID>
+	<SourceText>map.ResultField</SourceText>
+	<TargetText>map.ResultField</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.result</StringID>
+	<SourceText>result</SourceText>
+	<TargetText>result</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.setFields</StringID>
+	<SourceText>setFields</SourceText>
+	<TargetText>setFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.sql</StringID>
+	<SourceText>sql</SourceText>
+	<TargetText>sql</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.sqlFields</StringID>
+	<SourceText>sqlFields</SourceText>
+	<TargetText>sqlFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.sqlTable</StringID>
+	<SourceText>sqlTable</SourceText>
+	<TargetText>sqlTable</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.stopCalc</StringID>
+	<SourceText>stopCalc</SourceText>
+	<TargetText>stopCalc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.table</StringID>
+	<SourceText>table</SourceText>
+	<TargetText>table</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.tableName is missing</StringID>
+	<SourceText>tableName is missing</SourceText>
+	<TargetText>tableName is missing</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.web_manipulator_configulator</StringID>
+	<SourceText>web_manipulator_configulator</SourceText>
+	<TargetText>web_manipulator_configulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.web_manipulator_main</StringID>
+	<SourceText>web_manipulator_main</SourceText>
+	<TargetText>web_manipulator_main</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.{}</StringID>
+	<SourceText>{}</SourceText>
+	<TargetText>{}</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.¶</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Blank</StringID>
+	<SourceText>Blank</SourceText>
+	<TargetText>Blank</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Configulator_Manipulator</StringID>
+	<SourceText>Configulator_Manipulator</SourceText>
+	<TargetText>Configulator_Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.DEMO</StringID>
+	<SourceText>DEMO</SourceText>
+	<TargetText>DEMO</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.Manipulator</StringID>
+	<SourceText>Manipulator</SourceText>
+	<TargetText>Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.Addon Manipulator</StringID>
+	<SourceText>Addon Manipulator</SourceText>
+	<TargetText>Addon Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.addon_manipulator_error</StringID>
+	<SourceText>addon_manipulator_error</SourceText>
+	<TargetText>addon_manipulator_error</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.ConfigStore</StringID>
+	<SourceText>ConfigStore</SourceText>
+	<TargetText>ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.HTML</StringID>
+	<SourceText>HTML</SourceText>
+	<TargetText>HTML</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.How to use</StringID>
+	<SourceText>How to use</SourceText>
+	<TargetText>How to use</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Manipulator Resource</StringID>
+	<SourceText>Manipulator Resource</SourceText>
+	<TargetText>Manipulator Resource</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.Reset Config</StringID>
+	<SourceText>Reset Config</SourceText>
+	<TargetText>Reset Config</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.__$$addon_manipulator_error__</StringID>
+	<SourceText>&lt;&lt;$$addon_manipulator_error&gt;&gt;</SourceText>
+	<TargetText>&lt;&lt;$$addon_manipulator_error&gt;&gt;</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.age</StringID>
+	<SourceText>age</SourceText>
+	<TargetText>age</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.calc</StringID>
+	<SourceText>calc</SourceText>
+	<TargetText>calc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.data</StringID>
+	<SourceText>data</SourceText>
+	<TargetText>data</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.name</StringID>
+	<SourceText>name</SourceText>
+	<TargetText>name</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.result</StringID>
+	<SourceText>result</SourceText>
+	<TargetText>result</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.state</StringID>
+	<SourceText>state</SourceText>
+	<TargetText>state</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.web_manipulator_configulator</StringID>
+	<SourceText>web_manipulator_configulator</SourceText>
+	<TargetText>web_manipulator_configulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.web_manipulator_main</StringID>
+	<SourceText>web_manipulator_main</SourceText>
+	<TargetText>web_manipulator_main</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.Addon Manipulator</StringID>
+	<SourceText>Addon Manipulator</SourceText>
+	<TargetText>Addon Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.called by addon</StringID>
+	<SourceText>called by addon</SourceText>
+	<TargetText>called by addon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_ConfigStore_reset</StringID>
+	<SourceText>manipulator_ConfigStore_reset</SourceText>
+	<TargetText>manipulator_ConfigStore_reset</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_addon_start</StringID>
+	<SourceText>manipulator_addon_start</SourceText>
+	<TargetText>manipulator_addon_start</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_getFields</StringID>
+	<SourceText>manipulator_getFields</SourceText>
+	<TargetText>manipulator_getFields</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_hidePopover</StringID>
+	<SourceText>manipulator_hidePopover</SourceText>
+	<TargetText>manipulator_hidePopover</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_log</StringID>
+	<SourceText>manipulator_log</SourceText>
+	<TargetText>manipulator_log</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_save_config</StringID>
+	<SourceText>manipulator_save_config</SourceText>
+	<TargetText>manipulator_save_config</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_sendCalc</StringID>
+	<SourceText>manipulator_sendCalc</SourceText>
+	<TargetText>manipulator_sendCalc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_sendData</StringID>
+	<SourceText>manipulator_sendData</SourceText>
+	<TargetText>manipulator_sendData</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_showPopover</StringID>
+	<SourceText>manipulator_showPopover</SourceText>
+	<TargetText>manipulator_showPopover</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.manipulator_show_config</StringID>
+	<SourceText>manipulator_show_config</SourceText>
+	<TargetText>manipulator_show_config</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text. Set the Web Viewer name</StringID>
+	<SourceText> Set the Web Viewer name</SourceText>
+	<TargetText> Set the Web Viewer name</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text. Step2</StringID>
+	<SourceText> Step2</SourceText>
+	<TargetText> Step2</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1. Get configuration Using ExecuteSQL, the context doesn&apos;t matter</StringID>
+	<SourceText>1. Get configuration Using ExecuteSQL, the context doesn&apos;t matter</SourceText>
+	<TargetText>1. Get configuration Using ExecuteSQL, the context doesn&apos;t matter</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2. Get the current context(tableName) - the layout where Addon is placed</StringID>
+	<SourceText>2. Get the current context(tableName) - the layout where Addon is placed</SourceText>
+	<TargetText>2. Get the current context(tableName) - the layout where Addon is placed</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.3.Get Layout name</StringID>
+	<SourceText>3.Get Layout name</SourceText>
+	<TargetText>3.Get Layout name</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.4. Get FieldNames List in the current layout to show options(field selection)</StringID>
+	<SourceText>4. Get FieldNames List in the current layout to show options(field selection)</SourceText>
+	<TargetText>4. Get FieldNames List in the current layout to show options(field selection)</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5. Get TableName List of this file</StringID>
+	<SourceText>5. Get TableName List of this file</SourceText>
+	<TargetText>5. Get TableName List of this file</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CalcField</StringID>
+	<SourceText>CalcField</SourceText>
+	<TargetText>CalcField</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Check whether the context is determined or not</StringID>
+	<SourceText>Check whether the context is determined or not</SourceText>
+	<TargetText>Check whether the context is determined or not</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DONE!</StringID>
+	<SourceText>DONE!</SourceText>
+	<TargetText>DONE!</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DataField</StringID>
+	<SourceText>DataField</SourceText>
+	<TargetText>DataField</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Preventing Recurrent Calls</StringID>
+	<SourceText>Preventing Recurrent Calls</SourceText>
+	<TargetText>Preventing Recurrent Calls</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Re-Setup ConfigStore</StringID>
+	<SourceText>Re-Setup ConfigStore</SourceText>
+	<TargetText>Re-Setup ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Set up resource for Addon</StringID>
+	<SourceText>Set up resource for Addon</SourceText>
+	<TargetText>Set up resource for Addon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Step1</StringID>
+	<SourceText>Step1</SourceText>
+	<TargetText>Step1</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.Step3</StringID>
+	<SourceText>Step3</SourceText>
+	<TargetText>Step3</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.call javascript function &apos;init&apos; with $resource</StringID>
+	<SourceText>call javascript function &apos;init&apos; with $resource</SourceText>
+	<TargetText>call javascript function &apos;init&apos; with $resource</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by Addon, callback init</StringID>
+	<SourceText>called by Addon, callback init</SourceText>
+	<TargetText>called by Addon, callback init</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by addon - param: config which caontains field mapping</StringID>
+	<SourceText>called by addon - param: config which caontains field mapping</SourceText>
+	<TargetText>called by addon - param: config which caontains field mapping</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by addon - param: config which caontains field mapping / callback: importData</StringID>
+	<SourceText>called by addon - param: config which caontains field mapping / callback: importData</SourceText>
+	<TargetText>called by addon - param: config which caontains field mapping / callback: importData</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by addon - param: config which caontains field mapping / callback: jsCalc</StringID>
+	<SourceText>called by addon - param: config which caontains field mapping / callback: jsCalc</SourceText>
+	<TargetText>called by addon - param: config which caontains field mapping / callback: jsCalc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by addon - parameter:configs modified in addon</StringID>
+	<SourceText>called by addon - parameter:configs modified in addon</SourceText>
+	<TargetText>called by addon - parameter:configs modified in addon</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.called by addon - parameter:info via configulator</StringID>
+	<SourceText>called by addon - parameter:info via configulator</SourceText>
+	<TargetText>called by addon - parameter:info via configulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.change the context to write back modified configs into Manipulator::ConfigStore</StringID>
+	<SourceText>change the context to write back modified configs into Manipulator::ConfigStore</SourceText>
+	<TargetText>change the context to write back modified configs into Manipulator::ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.edit is DONE. Set edit flag to 0</StringID>
+	<SourceText>edit is DONE. Set edit flag to 0</SourceText>
+	<TargetText>edit is DONE. Set edit flag to 0</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.get the layout to go back</StringID>
+	<SourceText>get the layout to go back</SourceText>
+	<TargetText>get the layout to go back</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.param</StringID>
+	<SourceText>param</SourceText>
+	<TargetText>param</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.reset Manipulator::ConfigStore</StringID>
+	<SourceText>reset Manipulator::ConfigStore</SourceText>
+	<TargetText>reset Manipulator::ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.set the result of calculation</StringID>
+	<SourceText>set the result of calculation</SourceText>
+	<TargetText>set the result of calculation</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.{_Settings_:{_background_:_#ffffff_,_color_:_#000000_,_edit_:0,_fields_:__,_layout_:__,_map_:__,_sqlFields_:__,_sqlTable_:__,_table_:__,_tableList_:__}}</StringID>
+	<SourceText>{&quot;Settings&quot;:{&quot;background&quot;:&quot;#ffffff&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;edit&quot;:0,&quot;fields&quot;:&quot;&quot;,&quot;layout&quot;:&quot;&quot;,&quot;map&quot;:&quot;&quot;,&quot;sqlFields&quot;:&quot;&quot;,&quot;sqlTable&quot;:&quot;&quot;,&quot;table&quot;:&quot;&quot;,&quot;tableList&quot;:&quot;&quot;}}</SourceText>
+	<TargetText>{&quot;Settings&quot;:{&quot;background&quot;:&quot;#ffffff&quot;,&quot;color&quot;:&quot;#000000&quot;,&quot;edit&quot;:0,&quot;fields&quot;:&quot;&quot;,&quot;layout&quot;:&quot;&quot;,&quot;map&quot;:&quot;&quot;,&quot;sqlFields&quot;:&quot;&quot;,&quot;sqlTable&quot;:&quot;&quot;,&quot;table&quot;:&quot;&quot;,&quot;tableList&quot;:&quot;&quot;}}</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.DEMO</StringID>
+	<SourceText>DEMO</SourceText>
+	<TargetText>DEMO</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.Manipulator</StringID>
+	<SourceText>Manipulator</SourceText>
+	<TargetText>Manipulator</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::age</StringID>
+	<SourceText>age</SourceText>
+	<TargetText>age</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::calc</StringID>
+	<SourceText>calc</SourceText>
+	<TargetText>calc</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::data</StringID>
+	<SourceText>data</SourceText>
+	<TargetText>data</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::name</StringID>
+	<SourceText>name</SourceText>
+	<TargetText>name</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::result</StringID>
+	<SourceText>result</SourceText>
+	<TargetText>result</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DEMO::state</StringID>
+	<SourceText>state</SourceText>
+	<TargetText>state</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.Manipulator::ConfigStore</StringID>
+	<SourceText>ConfigStore</SourceText>
+	<TargetText>ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.Manipulator::HTML</StringID>
+	<SourceText>HTML</SourceText>
+	<TargetText>HTML</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.Manipulator::Manipulator::ConfigStore</StringID>
+	<SourceText>Manipulator::ConfigStore</SourceText>
+	<TargetText>Manipulator::ConfigStore</TargetText>
+	<Comment></Comment>
+</DynamicTemplateString>
